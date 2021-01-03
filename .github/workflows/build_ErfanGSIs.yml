@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.3.21/miui_HMNote4_9.3.21_a1683494d2_6.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://ip2523523767.out.azhimalayanvh.com/Firmware/Flyme/m3_note/6.3.0.3/cmcc/20190320182827/ec45b0bc/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=f55eefc886c88ad8dfbe6bf2140e92fe4276fdcd372e5661&ali_redirect_ex_tmining_ts=1609647669&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
