@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/9.3.21/miui_HMNote4_9.3.21_a1683494d2_6.0.zip
-  ROM_NAME: OxygenOS
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
