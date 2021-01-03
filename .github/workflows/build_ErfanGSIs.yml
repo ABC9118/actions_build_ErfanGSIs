@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip2523523767.out.azhimalayanvh.com/Firmware/Flyme/m3_note/6.3.0.3/cmcc/20190320182827/ec45b0bc/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=f55eefc886c88ad8dfbe6bf2140e92fe4276fdcd372e5661&ali_redirect_ex_tmining_ts=1609647669&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_URL: https://ip2523523767.out.azhimalayanvh.com/Firmware/Flyme/m3_note/6.3.0.3/cmcc/20190320182827/ec45b0bc/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=450cd9e3aa690a4c5982c0bbb4faa3dfaee977d6cdb5d8cf&ali_redirect_ex_tmining_ts=1609648061&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
